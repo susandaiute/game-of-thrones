@@ -5,3 +5,5 @@ Joffrey totally does not die.
 
 And now we move the story one commit forward, where zombie Ned rises from
 the dead to exact revenge upon Joffrey.
+
+Zombie Ned is suddenly attacked by vampire Joffrey.
